@@ -15,6 +15,13 @@ This project provides an implementation of matrix operations using CUDA to accel
 - NVIDIA GPU with CUDA support
 - CUDA toolkit installed
 
+### Comparison
+
+Time Difference between GPU and CPU Computation Time (With N = 1000).
+
+![](./comparison.png)
+
+
 ### Usage
 
 Example usage:
